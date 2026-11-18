@@ -1,0 +1,14 @@
+Ponto Final, site estático
+
+Arquivos:
+  index.html        página principal
+  termos.html       termos de uso
+  privacidade.html  política de privacidade
+  reembolso.html    política de reembolso
+
+Como publicar: envie todos os arquivos para a raiz da hospedagem (ou arraste a pasta no Netlify, Vercel ou Cloudflare Pages).
+Não há dependências: as fontes vêm do Google Fonts.
+
+Antes de publicar:
+  1. Troque os botões "Obter o script" pelo link do checkout da Kiwify (procure href="#cta" e href="#topo" no index.html).
+  2. Preencha os campos destacados em amarelo nas páginas legais: [NOME COMPLETO OU RAZÃO SOCIAL], [CPF OU CNPJ], [E-MAIL DE SUPORTE].
